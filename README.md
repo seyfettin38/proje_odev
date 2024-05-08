@@ -1,2 +1,2 @@
-# proje_odev
-Makine Öğrenmesine Giriş Dersi Naive Bayes Algoritması 
+# proje
+ Naive Bayes Algoritması 
